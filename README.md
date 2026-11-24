@@ -25,7 +25,7 @@ pip install -r requirements.txt jupyter
 jupyter notebook
 ```
 
-The error-enumeration loops run thousands of small simulations, so a full run of `bit_flip_channel.ipynb` and `five_qubit_repetition.ipynb` takes several minutes.
+`five_qubit_repetition.ipynb` and `same_error.ipynb` finish in a few minutes. `bit_flip_channel.ipynb` runs about 19,000 small simulations in its error-sweep loops and takes considerably longer (over 15 minutes on a laptop CPU).
 
 ## Author
 
