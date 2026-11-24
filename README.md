@@ -30,3 +30,7 @@ jupyter notebook
 ## Author
 
 [Syed Emad Uddin Shubha](https://syedshubha.com). Work done at Bangladesh University of Engineering and Technology (BUET) and North South University, 2022–2023.
+
+## License
+
+The notebooks are released under the [MIT License](LICENSE). The two paper PDFs are not covered by this license and remain under their publishers' terms.
